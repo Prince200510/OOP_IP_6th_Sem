@@ -1,0 +1,2 @@
+1. class, constructor
+2. for decalring a private variable we used in js '#'
