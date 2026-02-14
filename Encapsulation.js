@@ -4,8 +4,8 @@ class BankAccount {
 
     constructor(owner, initialbalance, pin) {
         this.owner = owner;  // public property
-        this.#balance = initialbalance; // Initialize private balance
-        this.#pin = String(pin); // Convert pin to string and set directly
+        this.#balance = initialbalance; 
+        this.#pin = String(pin); 
     }
 
     deposit(amount) {
