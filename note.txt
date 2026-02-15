@@ -1,3 +1,12 @@
-1. class, constructor
-2. for decalring a private variable we used in js '#'
-3. Method chaining 
+1. class, call constructor
+2. for declaring a private variable we used in js '#'
+3. Method chaining
+4. get function, set function, interface creation, previate, protected & public
+5. data access, getter and setter  
+
+Task:-
+1. Both Inheritance & Encapsulation 
+2. 4 class
+3. parent, child, parent & child
+4. SIP Caluclator  
+5. ATM function = create a 8 function show balance, past transaction, wihtdraw, deposit, change pin, generate otp, change acc no, change pin, usin inhertance amount interset, cashback using day formation and exit  

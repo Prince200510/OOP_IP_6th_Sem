@@ -122,3 +122,6 @@ current.deposit(2000);
 console.log("Deposit :", current._balance);
 current.deposit(500);
 console.log("Deposit :", current._balance);
+
+
+
