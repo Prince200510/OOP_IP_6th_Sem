@@ -1,7 +1,7 @@
 1. class, call constructor
 2. for declaring a private variable we used in js '#'
 3. Method chaining
-4. get function, set function, interface creation, previate, protected & public
+4. get function, set function, interface creation, private, protected & public
 5. data access, getter and setter  
 
 Task:-
